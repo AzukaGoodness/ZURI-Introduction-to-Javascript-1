@@ -6,7 +6,7 @@ document.write("<br>");
 document.write("Height: 5'9");
 document.write("<br>");
 document.write("<br>");
-document.write("Country: Nigerian");
+document.write("Country: Nigeria");
 
 
  
